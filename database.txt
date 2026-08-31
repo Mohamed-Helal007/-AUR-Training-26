@@ -1,0 +1,4 @@
+type=Book|title=Dune|status=CHECKED_OUT
+type=Book|title=Pride and Prejudice|status=AVAILABLE
+type=DVD|title=Inception|status=AVAILABLE
+type=Magazine|title=National Geographic|status=AVAILABLE
